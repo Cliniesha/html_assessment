@@ -1,0 +1,26 @@
+h1{
+    background-color:rgb(255,99,71) ;
+    border: 2px solid white;
+    font-style: italic;
+}
+p{
+    color: brown;
+    border: solid white;
+    background-color: #ff6347;
+    font-weight: bold;
+    font-family:'Gill Sans';
+    font-style: oblique;
+}
+#demo{
+    color: aquamarine;
+    border: solid white;
+    background-color: hsl(9,100%, 64%);
+    word-spacing: 23px;
+    letter-spacing: 10px;
+    text-align: right;
+
+}
+h2{
+    font-size: 4vw;
+    font-style: italic;
+}

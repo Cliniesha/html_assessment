@@ -1,0 +1,70 @@
+/* assessment1*/
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aquamarine;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.right{
+    display: flex;
+    width: 30%;
+
+}
+
+.right p{
+    margin-left: 3vw;
+    font-style: italic;
+}
+p{
+    font-style: italic;
+    color: rgb(84, 76, 76);
+}
+
+#pic{
+    width: 15vw;
+    position: relative;
+    left: 2vw;
+    top: 15vh;
+}
+.parent{
+    display: flex;
+    gap: 4vw;
+    /* line-height: 1vw; */   
+}
+.spacing{
+    line-height: 1.4vw;
+    margin-bottom: 2vw;
+    font-style: italic;
+    
+}
+h1{
+    position: relative;
+    top: 5vh;
+    left: 10vh;
+}
+
+h2{
+    color:red;
+}
+h3{
+    color: rgb(180, 179, 179);
+
+}
+h4{
+    color:rgb(180, 179, 179);
+}
+
+.all {
+    position: relative;
+    top: 15vh;
+    }
+

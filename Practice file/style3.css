@@ -1,0 +1,51 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 95%;
+    margin: 0 auto;
+}
+
+.right {
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+    text-decoration: none;
+    font-style: italic;
+    color: blue;
+}
+
+.img-div img {
+    width: 10vw;
+}
+
+.bio-section {
+    display: flex;
+    gap: 2vw;
+}
+
+.info-div h1 {
+    margin: 0;
+}
+
+.info-div p {
+    margin: 0;
+}
+
+#description {
+    margin-top: 2vw;
+}
+
+.outsourced {
+    height: 30%;
+    width: 30%;
+}
+table, tr, td {
+    border: 1px solid black;
+}
+
+.Form {
+    left: 79vw;
+    position: relative;
+    bottom: 30vh;
+    }
